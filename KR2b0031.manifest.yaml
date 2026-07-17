@@ -28,10 +28,10 @@ assets:
   - {seq: 5, filename: KR2b0031_005.yaml, hash: 'sha256:cbcdeb52ee5fb26702798de3ed8f7db9ebdd23e6bcc858a22a38859ad433d3e8'}
   - {seq: 6, filename: KR2b0031_006.yaml, hash: 'sha256:602720102925250259758d7f926644ce2cdaec24ad69ddaa01293cac8ead463a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2b0031_000.markers.yaml, hash: 'sha256:56aff9cab1c60aaa02555bbde49d491bf252702393cc09ea1772412b73121e46'}
+  - {seq: 0, role: markers, filename: assets/KR2b0031_000.markers.yaml, hash: 'sha256:c6f2e81cfdc48b6ebf2c6330b88c126b804663f22a917fde6450d02e247f449c'}
   - {seq: 1, role: markers, filename: assets/KR2b0031_001.markers.yaml, hash: 'sha256:a781d48ead72abfeccefb5db439d37149caff35b81c98ba319601d5061a02e02'}
-  - {seq: 2, role: markers, filename: assets/KR2b0031_002.markers.yaml, hash: 'sha256:05c451c034057b0e36e1c70e0abdad21361e47ca615e073a12995c1f4bec790b'}
-  - {seq: 3, role: markers, filename: assets/KR2b0031_003.markers.yaml, hash: 'sha256:22900bf0fe9f1a7b7557771b9061bea74525252945c30c7ef4bee160b2e6f489'}
+  - {seq: 2, role: markers, filename: assets/KR2b0031_002.markers.yaml, hash: 'sha256:7fa8c782afeccc85abd9b7f368c14d97d9149857f667cea9b91cd41b57be94eb'}
+  - {seq: 3, role: markers, filename: assets/KR2b0031_003.markers.yaml, hash: 'sha256:238289fdebc3afdc628975f6851e9931cc778459d142e9284e0cbd686999d874'}
   - {seq: 4, role: markers, filename: assets/KR2b0031_004.markers.yaml, hash: 'sha256:5b8f92d8473764d4fea1b84ef6ff2dd17879a12f894fb033df77e289de5974e1'}
   - {seq: 5, role: markers, filename: assets/KR2b0031_005.markers.yaml, hash: 'sha256:d118ed38fc6bee62fa07865eaf78388687cbc770b78bb0c94babb90fff49bd8e'}
   - {seq: 6, role: markers, filename: assets/KR2b0031_006.markers.yaml, hash: 'sha256:207dccacf662b124c9dacfbc0ec39b6fa28551a344dbcfa40b7acb680bc5e284'}
@@ -116,7 +116,7 @@ table_of_contents:
   label: 卷六
   type: section
   level: 1
-hash: sha256:733b2908cd8878114502e095603f77c66743ff48be8ed9667467d8156f2adb38
+hash: sha256:74d13107721bb0ce95094ca338d6b9bd9ada2c077ada2252c369ee2d4e69ca14
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

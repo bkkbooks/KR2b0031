@@ -25,10 +25,10 @@ assets:
   - {seq: 5, filename: KR2b0031_005-WYG.yaml, hash: 'sha256:e4a6b1f0e77ee9620c53441a2a80a9115f7a6fcacda960cf617f2003a81ceeb6'}
   - {seq: 6, filename: KR2b0031_006-WYG.yaml, hash: 'sha256:16c6e4e122cb6558573e9d3db71a190019d19107ed91ef5ba1f165c191880550'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2b0031_000-WYG.markers.yaml, hash: 'sha256:cdea8abd1985ea3d34bb872255e79abbae8f08a14cbadbdb93c3160999a74521'}
+  - {seq: 0, role: markers, filename: assets/KR2b0031_000-WYG.markers.yaml, hash: 'sha256:67e7bd03e6b84bb80f97413be51bce9fb7a8f1bd54a96a41145d3350e49a20a4'}
   - {seq: 1, role: markers, filename: assets/KR2b0031_001-WYG.markers.yaml, hash: 'sha256:9c50e4423beed9a2d5429d627a31fba0ede539ae4f6ca631027b93807b21ffde'}
-  - {seq: 2, role: markers, filename: assets/KR2b0031_002-WYG.markers.yaml, hash: 'sha256:4637a3550d76eb3027900d05df7e55d1e48b26a2ae1670561255c44d20e589a2'}
-  - {seq: 3, role: markers, filename: assets/KR2b0031_003-WYG.markers.yaml, hash: 'sha256:a8aac866e5d8b75a6003da98c047e564461cf1f8e89a6fc83c892bcaa180a9ff'}
+  - {seq: 2, role: markers, filename: assets/KR2b0031_002-WYG.markers.yaml, hash: 'sha256:4b035942b6771fc291afb00370dbc3b69009a5b219aa96459a60ee419290313e'}
+  - {seq: 3, role: markers, filename: assets/KR2b0031_003-WYG.markers.yaml, hash: 'sha256:2419b5ecc10ab2eac895aeed8ebb437e039d27ecd68bc26a9b8c256d8aa3601f'}
   - {seq: 4, role: markers, filename: assets/KR2b0031_004-WYG.markers.yaml, hash: 'sha256:f170a05b2a3582c34076f2675eaf1cd4dfbe90ed2814918fc243449140ed91fa'}
   - {seq: 5, role: markers, filename: assets/KR2b0031_005-WYG.markers.yaml, hash: 'sha256:8f794b9c7c79745a8c0d338b9983adf4869d2b0f5618032d736010a5d90d0f79'}
   - {seq: 6, role: markers, filename: assets/KR2b0031_006-WYG.markers.yaml, hash: 'sha256:f7027c33f13208474848bfc5d1280b47827001345436e20d87866d133504aad9'}
@@ -113,4 +113,4 @@ table_of_contents:
   label: 卷六
   type: section
   level: 1
-hash: sha256:2d2d43bbf7a77fabbd115bb99668c2687fb413164b20af234d089b3a243ea021
+hash: sha256:b14c5be641381b89120766f4deac432811b0cd68b600df022cf886702876e966
